@@ -1,1 +1,21 @@
 /* All coded by SimiCoding on Github */
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+*,
+html {
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
+  /*border: solid red 1px;*/
+}
+
+:root {
+  --darkblue: #134b5f;
+  --lightblue: #2596be;
+  --font-white: #d3eaf2;
+}
+
+body {
+  background-color: var(--darkblue);
+}
