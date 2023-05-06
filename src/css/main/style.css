@@ -10,8 +10,14 @@ html {
   /*border: solid red 1px;*/
 }
 
+body{
+  height: 200vh;
+}
+
+
 :root {
   --darkblue: #134b5f;
+  --darkerblue: #0b2d39;
   --lightblue: #2596be;
   --font-white: #d3eaf2;
 }
@@ -19,3 +25,4 @@ html {
 body {
   background-color: var(--darkblue);
 }
+

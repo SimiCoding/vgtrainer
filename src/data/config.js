@@ -4,5 +4,6 @@ export const config = {
         `nouns`,
         `adjectives`,
         `prepositions`,
+        `vocabulary`,
     ]
 }

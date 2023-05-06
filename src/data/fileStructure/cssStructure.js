@@ -24,4 +24,8 @@ file: `intro.css`,
         folder: `main/intro/`,
         file: `cursor.css`
     },
+    {
+        folder:`main/cards/`,
+        file: `card.css`,
+    },
 ]

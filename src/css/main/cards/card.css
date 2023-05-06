@@ -1,0 +1,29 @@
+.main-cards{
+    width: 100vw;
+    height: 100vh;
+    position:absolute;
+    top: 30vh;
+}
+
+.cardItem {
+    background-color: var(--darkerblue);
+    width: 25vw;
+    height: 65vh;
+    display:flex;
+    border-radius: 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-title{
+    font-size: 1.5rem;
+}
+
+.card-img{
+    position: relative;
+    top: 7.5vh;
+    height: 30vh;
+width: 20vw;
+border-radius: 20px;
+
+}
