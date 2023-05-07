@@ -17,13 +17,32 @@
 
 .card-title{
     font-size: 1.5rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+
 }
 
 .card-img{
-    position: relative;
-    top: 7.5vh;
-    height: 30vh;
+    
+    height: 25vh;
 width: 20vw;
 border-radius: 20px;
 
 }
+
+.card-desc{
+    padding-left: 2vw;
+    padding-right: 2vw;
+    font-size: 1.2rem;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+
+
+.cardList {
+    display: flex;
+    gap: 10vw;
+    padding-right: 5vw;
+}
+

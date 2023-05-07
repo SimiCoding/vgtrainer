@@ -8,10 +8,14 @@ html {
   width: auto;
   overflow-x: hidden;
   /*border: solid red 1px;*/
+  z-index: 0;
+ 
 }
 
 body{
   height: 200vh;
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -26,3 +30,9 @@ body {
   background-color: var(--darkblue);
 }
 
+.wrapper{
+  z-index:1;
+  width: 100%;
+  height: 200%;
+
+}

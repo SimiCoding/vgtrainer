@@ -28,4 +28,8 @@ file: `intro.css`,
         folder:`main/cards/`,
         file: `card.css`,
     },
+    {
+        folder:`main/getStarted/`,
+        file: `getStarted.css`,
+    },
 ]
