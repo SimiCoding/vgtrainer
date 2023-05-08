@@ -1,15 +1,17 @@
 .gettingStarted{
-    position: relative;
-    top: 10vh;
+    position:inherit;
+    top: 75vh;
+    
     height: 50vh;   
 }
 
-/* Thick red border */
-/*.hortizontalLineStarted {
+
+.hortizontalLineStarted {
     border: 1px solid var(--darkerblue);
     width: 100vw;
-  }*/
- /* 
+    
+  }
+ 
   .getStarted-title{
     font-family: 'Rubik', sans-serif;
 font-weight: 500;

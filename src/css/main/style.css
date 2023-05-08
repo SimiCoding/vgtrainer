@@ -6,16 +6,19 @@
 html {
   height: auto;
   width: auto;
-  overflow-x: hidden;
+  
   /*border: solid red 1px;*/
-  z-index: 0;
+ 
+ 
+ 
  
 }
 
-body{
+body, html{
   height: 200vh;
   margin: 0;
   padding: 0;
+
 }
 
 
