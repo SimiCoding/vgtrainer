@@ -1,8 +1,9 @@
 .gettingStarted{
-    position:inherit;
-    top: 75vh;
+    position:relative;
+    top: 80vh;
     
-    height: 50vh;   
+    height: 50vh;  
+    color: white; 
 }
 
 

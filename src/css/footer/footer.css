@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.footer {
+  position: relative;
+
+  height: 22.5vh;
+
+  top: 450vh;
+  color: white;
+  width: 100vw;
+  display: block;
+}
+
+.hortizontalLineFooter {
+  border: 1px solid var(--darkerblue);
+  width: 95vw;
+}
+
+.credentialsFooter {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  position: relative;
+  top: 5vh;
+}
+
+.nameFooter {
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5rem;
+  position: relative;
+  top: 7.5vh;
+}
+.footerLinkgithub {
+  text-decoration: none;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5rem;
+  color: white;
+}

@@ -7,7 +7,7 @@ const app = document.querySelector(`.app`);
 
 loadFiles();
 
-//app.insertAdjacentHTML("beforebegin", mainPageCode);
+app.insertAdjacentHTML("beforebegin", mainPageCode);
 
 // Events: 
 

@@ -32,4 +32,8 @@ file: `intro.css`,
         folder:`main/getStarted/`,
         file: `getStarted.css`,
     },
+    {
+        folder: `footer/`,
+        file: `footer.css`,
+    },
 ]
